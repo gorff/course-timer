@@ -4,5 +4,5 @@ This is a demo project to track how much of my online courses i need to finish p
 This page is build using html, CSS and JS.
 
 ## To do:
- [] Add a cookie to remember when the due date is
- [] allow an input for a day, so that it returns how much should be done by that day
+- [] Add a cookie to remember when the due date is
+-[] allow an input for a day, so that it returns how much should be done by that day
