@@ -6,10 +6,14 @@ p
 {
   text-align: center;
   font-family: 'Arvo';
+  font-weight: 400;
 }
 .title{
   text-align: center;
 }
 body{
   padding: 150px;
+}
+div{
+  text-align: center;
 }
