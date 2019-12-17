@@ -5,4 +5,5 @@ This page is build using html, CSS and JS.
 
 ## To do:
 - [ ] Add a cookie to remember when the due date is
-- [ ] allow an input for a day, so that it returns how much should be done by that day
+- [x] allow an input for a day, so that it returns how much should be done by that day
+- [ ] allow adding multiple courses with names up the top. Consider bootstrap cards with `plus' icon for adding more courses? 
